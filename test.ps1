@@ -1,7 +1,7 @@
 function mdsplit {
     [cmdletbinding()]
     param(
-        [string]$Path = ".\testsplit.md",
+        [string]$Path = ".\sample.md",
         [string]$OutPath = "."
     )
 
